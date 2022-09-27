@@ -4,9 +4,12 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>In Card</title>
+<title>header</title>
+<style>
+
+</style>
 </head>
 <body>
-	<h1>안녕하세요</h1>
+
 </body>
 </html>
