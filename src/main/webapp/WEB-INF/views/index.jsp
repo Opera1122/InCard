@@ -7,6 +7,9 @@
 <title>In Card</title>
 </head>
 <body>
-	<h1>안녕하세요</h1>
+	<div id="wrapper">
+		<jsp:include page="header.jsp"/>
+		<h1>안녕하세요</h1>
+	</div>
 </body>
 </html>
