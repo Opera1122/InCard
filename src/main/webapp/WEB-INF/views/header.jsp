@@ -10,8 +10,6 @@
 				margin:0px;
 				padding:0px;
 			}
-			body {
-			}
 			#wrapper {
 				background-color:#F7D358;
 				height:160px;
