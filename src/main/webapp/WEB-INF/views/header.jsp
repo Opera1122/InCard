@@ -12,12 +12,13 @@
 			}
 			#wrapper {
 				background-color:#F7D358;
+				width:1920px;
 				height:160px;
-				margin:0 auto;
+				margin:auto;
 			}
 			header {
 				width:1280px;
-				margin:0 auto;
+				margin:auto;
 			}
 			a {
 				text-decoration:none;
@@ -60,12 +61,12 @@
 		<div id="wrapper">
 			<header id="leftContents">
 				<nav>
-					<a href=""><li>로그인</li></a>
-					<a href=""><li>회원가입</li></a>
+					<a href="login.jsp"><li>로그인</li></a>
+					<a href="signUp.jsp"><li>회원가입</li></a>
 				</nav>
 				<ul id="topMenu">
-					<a href="#"><img src="../images/logo/로고.png" width="250px"></a>
-					<a href=""><li>초대장 만들기</li></a>
+					<a href="index.jsp"><img src="../images/logo/로고.png" width="250px"></a>
+					<a href="#makeCard"><li>초대장 만들기</li></a>
 					<a href=""><li>내 초대장 관리</li></a>
 				</ul>
 			</header>
