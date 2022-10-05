@@ -17,7 +17,7 @@
 			#background {
 				width:1920px;
 				height:900px;
-				background-image:url("../images/background/subBalloon.jpg");
+				background-image:url("static/images/background/subBalloon.jpg");
 				float:left;
 			}
 			#title {

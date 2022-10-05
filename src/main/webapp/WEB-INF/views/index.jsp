@@ -17,7 +17,7 @@
 			#introBackground {
 				width:1920px;
 				height:1000px;
-				background-image:url("../images/background/indexBalloon.jpg");
+				background-image:url("static/images/background/indexBalloon.jpg");
 				float:left;
 			}
 			#intro {
@@ -77,16 +77,16 @@
 				<div id="makeCard">
 					<h1>초대장 만들기</h1>
 					<section class="card">
-						<a href=""><img src="../images/cards/선물상자2.png"></a>
+						<a href=""><img src="static/images//cards/선물상자2.png"></a>
 					</section>
 					<section class="card">
-						<a href=""><img src="../images/cards/와인잔.png"></a>
+						<a href=""><img src="static/images/cards/와인잔.png"></a>
 					</section>
 					<section class="card">
-						<a href=""><img src="../images/cards/팡.png"></a>
+						<a href=""><img src="static/images/cards/팡.png"></a>
 					</section>
 					<section class="card">
-						<a href=""><img src="../images/cards/풍선.png"></a>
+						<a href=""><img src="static/images/cards/풍선.png"></a>
 					</section>
 				</div>
 			</div>

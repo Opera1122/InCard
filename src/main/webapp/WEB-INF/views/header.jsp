@@ -65,7 +65,7 @@
 					<a href="signUp.jsp"><li>회원가입</li></a>
 				</nav>
 				<ul id="topMenu">
-					<a href="index.jsp"><img src="../images/logo/로고.png" width="250px"></a>
+					<a href="WEB-INF/views/index.jsp"><img src="static/images/logo/로고.png" width="250px"></a>
 					<a href="#makeCard"><li>초대장 만들기</li></a>
 					<a href=""><li>내 초대장 관리</li></a>
 				</ul>
